@@ -1,10 +1,17 @@
+---
+name: Custom issue template
+about: Use this space to report custom or blank issues that don’t fit predefined categories.
+  Share your ideas, suggestions, or concerns to help us enhance the project!
+title: Custom Issue Report
+labels: ''
+assignees: ''
+
+---
+
 # Project-Guidance! 🎊🎈
 
 ### Welcome! 🎉
-
-Thank you for visiting our repository! We're excited to have you here. If you find this project useful, please consider giving it a star! ⭐
-
-
+Thank you for opening an issue! Your contributions help us improve the project. If you find this repository useful, please consider giving it a star! ⭐
 
 ### 🎉 Have you reviewed the [Contributing Guidelines](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md)? 🤔 *(Required)*
 
@@ -14,18 +21,15 @@ Thank you for visiting our repository! We're excited to have you here. If you fi
 
 ### 📝 Description 
 
-<!-- Please provide a brief description of your changes here. -->
+<!-- Please provide a brief description of the issue here. -->
 
-### 🔧 Fixes #issue_no *(Required)*
-
-<!-- Replace issue_no with the relevant issue number that this PR addresses -->
+### 🔍 Priority Level
+- [ ] High
+- [ ] Medium
+- [ ] Low
 
 ### 🏷️ Initiative Participation *(Required)*
-
-This pull request is associated with the following initiative. Please choose the one you are contributing to:
-
 <!-- Please check the boxes that apply by replacing `[ ]` with `[x]`. -->
-
 - [ ] 🌸 GSSoC (Girl Script Summer of Code)
 - [ ] 🌼 GSSoC 2024 Extd.
 - [ ] 🍂 Hacktoberfest 2024
@@ -34,4 +38,7 @@ This pull request is associated with the following initiative. Please choose the
 - [ ] 🙋‍♂️ Personal
 - [ ] 📌 Other (please specify): _______________
 
+### 💬 Next Steps:
 
+You can expect a response within [X days].
+<!-- Please replace X with the exact number -->

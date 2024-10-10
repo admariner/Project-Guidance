@@ -1,14 +1,14 @@
----
-name: Documentation
-description: Report an issue related to documentation.
-title: "Title: "
-labels: Documentation
+name: ❓ Questions and Help
+description: If you have questions, please check the below links.
+title: "Questions or Help"
+labels: question
+assignees: []
 body:
   - type: markdown
     attributes:
-      value: >
-        Have you read the [Contributing
-        Guidelines](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md)?
+      value: |
+        Have you read the Contributing Guidelines? [Contributing Guidelines](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md)
+
   - type: dropdown
     attributes:
       label: Initiative (Required)
@@ -23,10 +23,11 @@ body:
         - "Other (please specify): _______________ ✏️"
     validations:
       required: true
+
   - type: textarea
     attributes:
-      label: Explain what you want to add/change in the documentation.
-      description: A clear and concise description of what the issue is.
-      placeholder: Type Here ...
+      label: Additional Info
+      description: "Please provide any additional information or questions you may have."
+      placeholder: Type here...
     validations:
-      required: true
+      required: false
